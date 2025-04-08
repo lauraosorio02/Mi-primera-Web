@@ -1,3 +1,3 @@
-Mi rpimer repositorio
+Mi primer repositorio
 
 mi primera contribucion local para GitHub
